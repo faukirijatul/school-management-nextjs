@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        labSky: "#C3EBFA",
+        labSkyLight: "#EDF9FD",
+        labPurple: "#CFCEFF",
+        labPurpleLight: "#F1F0FF",
+        labYellow: "#FAE27C",
+        labYellowLight: "#FEFCE8",
       },
     },
   },
