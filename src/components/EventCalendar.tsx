@@ -40,7 +40,7 @@ const EventCalendar = () => {
       <Calendar onChange={onChange} value={value} />
 
       <div className="flex justify-between items-center my-4">
-        <h1 className="text-lg font-semibold">Events</h1>
+        <h1 className="text-xl font-semibold">Events</h1>
         <Image src="/moreDark.png" alt="more" width={20} height={20} />
       </div>
 
